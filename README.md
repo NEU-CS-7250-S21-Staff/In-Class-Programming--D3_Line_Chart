@@ -1,5 +1,5 @@
 # In-Class Programming — D3 Line Chart
-~*35 min total*
+~*45 min total*
 
 This repository is your starting point for the assignment and includes the instructions below.
 
