@@ -144,7 +144,7 @@ For each of the following steps, you can save your file and reload the page in y
     ```javascript
     let xScale = d3.scaleTime()
       .domain([minDate, maxDate])
-      .range([0, width - margin.left - margin.bottom]);
+      .range([0, width - margin.left - margin.right]);
     ```
     ```javascript
     let yScale = d3.scaleLinear()
